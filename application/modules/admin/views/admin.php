@@ -1,0 +1,1 @@
+<?php echo 'XIN CHAO VIET NAM :D';?>
